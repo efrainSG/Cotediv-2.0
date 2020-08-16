@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f55zt3Tgr4T1O11x/LnVaLm70+060pkz9wpU1O0Ka7uELV1H7V1meUcOY9nschTyjKJyCvhyWi+/fADDhTDzcA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Cotediv-2.0\\SernaSistemas.Cotediv_3\\SernaSistemas.Cotediv_3.DataAccess\\SernaSistemas.Cotediv_3.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EFSERN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EFSERN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
